@@ -11,7 +11,7 @@
 ## Education
 - M.S. Health Education & Behavior - University of Florida
 - B.S. Nursing - University of North Florida
-- B.S. Telecommunication - University of Florida
+- B.S. Telecommunications - University of Florida
 
 
 ## Projects
