@@ -1,6 +1,6 @@
 # Product Developer & Data Analyst
 
-- Certifications: Microsoft Power BI Data Analyst (Pending Dece 2024)
+- Certifications: Microsoft Power BI Data Analyst (Pending Dec 2024)
 - Technical Skills: Python, SQL, Microsoft Excel, Technical Writing
 
 ## Courses
