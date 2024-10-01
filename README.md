@@ -1,22 +1,18 @@
 # Product Developer & Data Analyst
 
-- Certifications: Microsoft Power BI Data Analyst (Pending December 2024)
+- Certifications: Microsoft Power BI Data Analyst (Pending Dece 2024)
 - Technical Skills: Python, SQL, Microsoft Excel, Technical Writing
 
 ## Courses
-- Microsoft Power BI Data Analyst (Pending December 2024)
+- Microsoft Power BI Data Analyst (Pending Dec 2024)
 - IBM Product Management
 - Google Digital Marketing & E-Commerce
 
 ## Education
-- M.S., Health Education & Behavior | University of Florida
-- B.S., Nursing | University of North Florida
-- B.S., Telecommunication | University of Florida
+- M.S., Health Education & Behavior - University of Florida
+- B.S., Nursing - University of North Florida
+- B.S., Telecommunication - University of Florida
 
-## Work Experience
-Freelance Data Analyst & Writer @ Medium
-- Big impact project #1
-- Big impact project #2
 
 ## Projects
 --------------------------------------------------------
