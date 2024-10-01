@@ -20,7 +20,6 @@
 
 [Try Out the Calculator](http://127.0.0.1:4000/) or [Read About It](https://www.zhadaray.com/post/va-disability-guide)
 
-![Military Standing](images/Soldier Image.jpg)
 
 Description: Developed a VA Disability Rating Calculator using Python and Flask to automate the complex process of calculating disability ratings for veterans. The tool implements the VA's rating algorithm and allows users to input multiple conditions, displaying the final combined disability rating based on official guidelines.
 
@@ -34,6 +33,9 @@ Skills & Concepts:
 - Frontend Development: Structured content using HTML, designed forms, and styled results for an intuitive user experience.
 
 Outcome: Successfully built a fully functional web app that simplifies the disability rating process, providing veterans with a fast and accurate way to estimate their combined disability rating.
+
+
+![Military Standing](images/Soldier Image.jpg)
 
 
 
