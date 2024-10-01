@@ -30,7 +30,6 @@ Skills & Concepts:
 - Web Integration: Created interactive HTML forms to collect user input and display results using Flask's templating system.
 - Logical Programming: Built algorithms using logical structures (ex: if-else statements, loops, functions) to automate calculations and data processing.
 - Data Modeling: Used structured formats, like dictionaries, lists, and nested structures, to represent relationships and rules in the data.
-- Frontend Development: Structured content using HTML, designed forms, and styled results for an intuitive user experience.
 
 Outcome: Successfully built a fully functional web app that simplifies the disability rating process, providing veterans with a fast and accurate way to estimate their combined disability rating.
 
