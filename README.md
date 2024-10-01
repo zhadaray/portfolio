@@ -16,7 +16,7 @@
 
 ## Projects
 --------------------------------------------------------
-### Product: VA Disability Compensation Calculator
+### VA Disability Compensation Calculator
 
 [Try Out the Calculator](http://127.0.0.1:5000/) or [Read About It](https://www.zhadaray.com/post/va-disability-guide)
 
@@ -31,7 +31,7 @@
 - The Impact:
 
 
-### Product: Remote Nurse Career Quiz
+### Remote Nurse Career Quiz
 - Description/ Why this project matters:  
 
 - Skills: 
@@ -43,7 +43,7 @@
 - The Impact:
 
 
-### Product: Air Force Medic to LPN Guide
+### Air Force Medic to LPN Guide
 - Description/ Why this project matters:  
 
 - Skills: 
@@ -55,7 +55,7 @@
 - The Impact:
 
 
-### Data & Marketing: Invisalign
+### Invisalign Data Analytics Journey
 - Description/ Why this project matters:  
 
 - Skills: 
@@ -67,7 +67,7 @@
 - The Impact:
 
 
-### Data & Marketing: Four Friends Fitness Marketing Plan
+### Four Friends Fitness Marketing Plan
 - Description/ Why this project matters:  
 
 - Skills: 
@@ -79,7 +79,7 @@
 - The Impact:
 
 
-### Product: Remote Nurse Career Guide
+### Remote Nurse Career Guide
 - Description/ Why this project matters:  
 
 - Skills: 
