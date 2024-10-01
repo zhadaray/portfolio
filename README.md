@@ -1,5 +1,9 @@
 # Product Developer & Data Analyst
 
+Certifications: Microsoft Power BI Data Analyst
+Technical Skills: Python, SQL, Microsoft Excel, Technical Writing
+Courses: IBM Product Management, Microsoft Power BI Data Analyst, Technical Writing
+
 ## Education
 Master of Science - Health Education & Behavior, University of Florida
 Bachelor of Science - Nursing, University of North Florida
