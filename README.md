@@ -2,7 +2,11 @@
 
 ** Certifications: Microsoft Power BI Data Analyst
 ** Technical Skills: Python, SQL, Microsoft Excel, Technical Writing
-** Courses: IBM Product Management, Microsoft Power BI Data Analyst, Technical Writing
+
+## Courses
+Microsoft Power BI Data Analyst
+IBM Product Management
+Google Digital Marketing & E-Commerce
 
 ## Education
 Master of Science - Health Education & Behavior, University of Florida
@@ -16,7 +20,7 @@ Freelance Data Analyst & Writer @ Medium
 
 ## Projects
 --------------------------------------------------------
-### Product: VA Disability Compensation Calculator
+** Product: VA Disability Compensation Calculator
 - Description/ Why this project matters:  
 
 - Skills: Data Analysis, Technical Writing, Presentation, and Video Editing
