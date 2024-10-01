@@ -1,7 +1,7 @@
 # Product Developer & Data Analyst
 
-Certifications: Microsoft Power BI Data Analyst
-Technical Skills: Python, SQL, Microsoft Excel, Technical Writing
+- Certifications: Microsoft Power BI Data Analyst
+- Technical Skills: Python, SQL, Microsoft Excel, Technical Writing
 
 ## Courses
 Microsoft Power BI Data Analyst
