@@ -22,8 +22,7 @@ Freelance Data Analyst & Writer @ Medium
 --------------------------------------------------------
 ** Product: VA Disability Compensation Calculator
 
-> [Try It Out](http://127.0.0.1:5000/)
-> [Read About It](https://www.zhadaray.com/post/va-disability-guide)
+> [Try Out the Calculator](http://127.0.0.1:5000/) or [Read About It](https://www.zhadaray.com/post/va-disability-guide)
 
 - Description/ Why this project matters:  
 
