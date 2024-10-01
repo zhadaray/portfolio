@@ -1,4 +1,4 @@
-# Product Developer & Data Scientist
+# Product Developer & Data Analyst
 
 ### Education
 Master of Science - Health Education & Behavior, University of Florida
