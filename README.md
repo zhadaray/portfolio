@@ -13,7 +13,7 @@ Freelance Data Analyst & Writer @ Medium
 ## Projects
 --------------------------------------------------------
 ### Product: VA Disability Compensation Calculator
-- Why this project matters:  
+- Description/ Why this project matters:  
 
 - Skills: Data Analysis, Technical Writing, Presentation, and Video Editing
 - Tools used: Python, HTML, CyberLink PowerDirector
@@ -25,7 +25,7 @@ Freelance Data Analyst & Writer @ Medium
 
 
 ### Product: Remote Nurse Career Quiz
-- Why this project matters:  
+- Description/ Why this project matters:  
 
 - Skills: 
 - Tools used: 
@@ -37,7 +37,7 @@ Freelance Data Analyst & Writer @ Medium
 
 
 ### Product: Air Force Medic to LPN Guide
-- Why this project matters:  
+- Description/ Why this project matters:  
 
 - Skills: 
 - Tools used: 
@@ -49,7 +49,7 @@ Freelance Data Analyst & Writer @ Medium
 
 
 ### Data & Marketing: Invisalign
-- Why this project matters:  
+- Description/ Why this project matters:  
 
 - Skills: 
 - Tools used: 
@@ -61,7 +61,7 @@ Freelance Data Analyst & Writer @ Medium
 
 
 ### Data & Marketing: Four Friends Fitness Marketing Plan
-- Why this project matters:  
+- Description/ Why this project matters:  
 
 - Skills: 
 - Tools used: 
@@ -73,7 +73,7 @@ Freelance Data Analyst & Writer @ Medium
 
 
 ### Product: Remote Nurse Career Guide
-- Why this project matters:  
+- Description/ Why this project matters:  
 
 - Skills: 
 - Tools used: 
