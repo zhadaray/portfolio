@@ -1,7 +1,7 @@
 # Product Developer & Data Analyst
 
-** Certifications: Microsoft Power BI Data Analyst
-** Technical Skills: Python, SQL, Microsoft Excel, Technical Writing
+Certifications: Microsoft Power BI Data Analyst
+Technical Skills: Python, SQL, Microsoft Excel, Technical Writing
 
 ## Courses
 Microsoft Power BI Data Analyst
@@ -9,9 +9,9 @@ IBM Product Management
 Google Digital Marketing & E-Commerce
 
 ## Education
-Master of Science - Health Education & Behavior, University of Florida
-Bachelor of Science - Nursing, University of North Florida
-Bachelor of Science - Telecommunication, University of Florida
+M.S., Health Education & Behavior | University of Florida
+B.S., Nursing | University of North Florida
+B.S., Telecommunication | University of Florida
 
 ## Work Experience
 Freelance Data Analyst & Writer @ Medium
@@ -21,6 +21,8 @@ Freelance Data Analyst & Writer @ Medium
 ## Projects
 --------------------------------------------------------
 ** Product: VA Disability Compensation Calculator
+
+[Access Here](https://www.zhadaray.com](https://www.zhadaray.com/post/va-disability-guide)
 - Description/ Why this project matters:  
 
 - Skills: Data Analysis, Technical Writing, Presentation, and Video Editing
