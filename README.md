@@ -11,7 +11,8 @@ Freelance Data Analyst & Writer @ Medium
 - Big impact project #2
 
 ## Projects
-### VA Disability Compensation Calculator
+--------------------------------------------------------
+### Product: VA Disability Compensation Calculator
 - Why this project matters:  
 
 - Skills: Data Analysis, Technical Writing, Presentation, and Video Editing
@@ -23,7 +24,7 @@ Freelance Data Analyst & Writer @ Medium
 - The Impact:
 
 
-Remote Nurse Career Quiz
+### Product: Remote Nurse Career Quiz
 - Why this project matters:  
 
 - Skills: 
@@ -35,7 +36,7 @@ Remote Nurse Career Quiz
 - The Impact:
 
 
-Air Force Medic to LPN Guide
+### Product: Air Force Medic to LPN Guide
 - Why this project matters:  
 
 - Skills: 
@@ -47,7 +48,7 @@ Air Force Medic to LPN Guide
 - The Impact:
 
 
-Invisalign Data Analytics
+### Data & Marketing: Invisalign
 - Why this project matters:  
 
 - Skills: 
@@ -59,7 +60,7 @@ Invisalign Data Analytics
 - The Impact:
 
 
-Marketing Plan - Four Friends Fitness
+### Data & Marketing: Four Friends Fitness Marketing Plan
 - Why this project matters:  
 
 - Skills: 
@@ -71,7 +72,7 @@ Marketing Plan - Four Friends Fitness
 - The Impact:
 
 
-Resume Template
+### Product: Remote Nurse Career Guide
 - Why this project matters:  
 
 - Skills: 
