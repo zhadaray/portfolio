@@ -9,9 +9,9 @@
 - Google Digital Marketing & E-Commerce
 
 ## Education
-M.S., Health Education & Behavior | University of Florida
-B.S., Nursing | University of North Florida
-B.S., Telecommunication | University of Florida
+> M.S., Health Education & Behavior | University of Florida
+> B.S., Nursing | University of North Florida
+> B.S., Telecommunication | University of Florida
 
 ## Work Experience
 Freelance Data Analyst & Writer @ Medium
