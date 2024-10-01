@@ -20,73 +20,55 @@
 
 [Try Out the Calculator](http://127.0.0.1:5000/) or [Read About It](https://www.zhadaray.com/post/va-disability-guide)
 
-- Description/ Why this project matters:  
+- Description: why this project matters/ pain point/ the audience/ the impact 
 
 - Skills: Data Analysis, Technical Writing, Presentation, and Video Editing
 - Tools used: Python, HTML, CyberLink PowerDirector
 - Methods used: Decision Tree, Logic
 
-- The Pain Point: 
-- The Audience:
-- The Impact:
 
 
 ### Remote Nurse Career Quiz
-- Description/ Why this project matters:  
+- Description: why this project matters/ pain point/ the audience/ the impact 
 
 - Skills: 
 - Tools used: 
 - Methods used: 
 
-- The Pain Point: 
-- The Audience:
-- The Impact:
 
 
 ### Air Force Medic to LPN Guide
-- Description/ Why this project matters:  
+- Description: why this project matters/ pain point/ the audience/ the impact  
 
 - Skills: 
 - Tools used: 
 - Methods used: 
 
-- The Pain Point: 
-- The Audience:
-- The Impact:
 
 
 ### Invisalign Data Analytics Journey
-- Description/ Why this project matters:  
+- Description: why this project matters/ pain point/ the audience/ the impact  
 
 - Skills: 
 - Tools used: 
 - Methods used: 
 
-- The Pain Point: 
-- The Audience:
-- The Impact:
 
 
 ### Four Friends Fitness Marketing Plan
-- Description/ Why this project matters:  
+- Description: why this project matters/ pain point/ the audience/ the impact 
 
 - Skills: 
 - Tools used: 
 - Methods used: 
 
-- The Pain Point: 
-- The Audience:
-- The Impact:
 
 
 ### Remote Nurse Career Guide
-- Description/ Why this project matters:  
+- Description: why this project matters/ pain point/ the audience/ the impact  
 
 - Skills: 
 - Tools used: 
 - Methods used: 
 
-- The Pain Point: 
-- The Audience:
-- The Impact:
 
