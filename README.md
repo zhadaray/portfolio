@@ -1,17 +1,17 @@
 # Product Developer & Data Analyst
 
-### Education
+## Education
 Master of Science - Health Education & Behavior, University of Florida
 Bachelor of Science - Nursing, University of North Florida
 Bachelor of Science - Telecommunication, University of Florida
 
-### Work Experience
+## Work Experience
 Freelance Data Analyst & Writer @ Medium
 - Big impact project #1
 - Big impact project #2
 
-### Projects
-VA Disability Compensation Calculator
+## Projects
+### VA Disability Compensation Calculator
 - Why this project matters:  
 
 - Skills: Data Analysis, Technical Writing, Presentation, and Video Editing
