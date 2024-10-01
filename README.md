@@ -4,9 +4,9 @@
 - Technical Skills: Python, SQL, Microsoft Excel, Technical Writing
 
 ## Courses
-Microsoft Power BI Data Analyst
-IBM Product Management
-Google Digital Marketing & E-Commerce
+- Microsoft Power BI Data Analyst
+- IBM Product Management
+- Google Digital Marketing & E-Commerce
 
 ## Education
 M.S., Health Education & Behavior | University of Florida
