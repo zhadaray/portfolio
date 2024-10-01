@@ -20,55 +20,18 @@
 
 [Try Out the Calculator](http://127.0.0.1:4000/) or [Read About It](https://www.zhadaray.com/post/va-disability-guide)
 
-- Description: why this project matters/ pain point/ the audience/ the impact 
+Description: Developed a VA Disability Rating Calculator using Python and Flask to automate the complex process of calculating disability ratings for veterans. The tool implements the VA's rating algorithm and allows users to input multiple conditions, displaying the final combined disability rating based on official guidelines.
 
-- Skills: Data Analysis, Technical Writing, Presentation, and Video Editing
-- Tools used: Python, HTML, CyberLink PowerDirector
-- Methods used: Decision Tree, Logic
+Skills & Concepts:
 
+- Data Transformation & Analysis: Designed and coded a custom algorithm to combine multiple disability percentages according to the VA's formula.
+- Backend Development: Implemented the application using Flask, leveraging routing, blueprints, and dynamic content rendering.
+- Web Integration: Created interactive HTML forms to collect user input and display results using Flask's templating system.
+- Logical Programming: Built algorithms using logical structures (ex: if-else statements, loops, functions) to automate calculations and data processing.
+- Data Modeling: Used structured formats, like dictionaries, lists, and nested structures, to represent relationships and rules in the data.
+- Frontend Development: Structured content using HTML, designed forms, and styled results for an intuitive user experience.
 
+Outcome: Successfully built a fully functional web app that simplifies the disability rating process, providing veterans with a fast and accurate way to estimate their combined disability rating.
 
-### Remote Nurse Career Quiz
-- Description: why this project matters/ pain point/ the audience/ the impact 
-
-- Skills: 
-- Tools used: 
-- Methods used: 
-
-
-
-### Air Force Medic to LPN Guide
-- Description: why this project matters/ pain point/ the audience/ the impact  
-
-- Skills: 
-- Tools used: 
-- Methods used: 
-
-
-
-### Invisalign Data Analytics Journey
-- Description: why this project matters/ pain point/ the audience/ the impact  
-
-- Skills: 
-- Tools used: 
-- Methods used: 
-
-
-
-### Four Friends Fitness Marketing Plan
-- Description: why this project matters/ pain point/ the audience/ the impact 
-
-- Skills: 
-- Tools used: 
-- Methods used: 
-
-
-
-### Remote Nurse Career Guide
-- Description: why this project matters/ pain point/ the audience/ the impact  
-
-- Skills: 
-- Tools used: 
-- Methods used: 
 
 
