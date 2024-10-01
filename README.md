@@ -1,4 +1,3 @@
-# zhada.github.io
 # Product Developer & Data Scientist
 
 ### Education
