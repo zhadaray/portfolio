@@ -22,7 +22,8 @@ Freelance Data Analyst & Writer @ Medium
 --------------------------------------------------------
 ** Product: VA Disability Compensation Calculator
 
-[Access Here](https://www.zhadaray.com](https://www.zhadaray.com/post/va-disability-guide)
+[Try It Out](http://127.0.0.1:5000/)
+[Read About It](https://www.zhadaray.com](https://www.zhadaray.com/post/va-disability-guide)
 - Description/ Why this project matters:  
 
 - Skills: Data Analysis, Technical Writing, Presentation, and Video Editing
