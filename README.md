@@ -18,7 +18,7 @@
 --------------------------------------------------------
 ### VA Disability Compensation Calculator
 
-[Try Out the Calculator](http://127.0.0.1:4000/) or [Read About It](https://www.zhadaray.com/post/va-disability-guide)
+[Check Out the Calculator](https://github.com/zhadaray/va-disability-calculator) or [Read About It](https://www.zhadaray.com/post/va-disability-guide)
 
 
 Description: Developed a VA Disability Rating Calculator using Python and Flask to automate the complex process of calculating disability ratings for veterans. The tool implements the VA's rating algorithm and allows users to input multiple conditions, displaying the final combined disability rating based on official guidelines.
