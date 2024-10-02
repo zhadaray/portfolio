@@ -2,6 +2,8 @@ from flask import Flask, render_template, request
 
 app = Flask(__name__)
 
+# hello world!!
+
 #PSEUDOCODE
 #This Python program calculates the Veteran's disability compensation including
     #the financial compensation plus benefits (such as dental service)
@@ -274,6 +276,7 @@ def display_benefits(rating):
 #Route for the main page
 @app.route('/', methods=['GET', 'POST'])
 def index():
+    print("user connected!")
     if request.method == 'POST':
         try:
             #Get form data with error handling
